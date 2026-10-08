@@ -1,2 +1,2 @@
-# ARMA-EGARCH-Riesgo_Rendimiento
-Datos y código utilizados para la realización de paper académico 
+# Análisis comparativo del riesgo y rendimiento de las acciones de Micron Technology, Nvidia y Microsoft mediante modelos ARMA-GARCH y estimaciones de Valor en Riesgo (VaR)
+Este repositorio contiene los datos, el código y la documentación para reproducir los resultados del artículo de investigación que compara los perfiles riesgo-rendimiento de las acciones de Micron Technology, Nvidia Corporation y Microsoft Corporation tomando como período de estudio desde enero de 2020 hasta junio de 2026. 
