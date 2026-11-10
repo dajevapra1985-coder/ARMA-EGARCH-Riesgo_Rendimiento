@@ -1,7 +1,7 @@
 ##########################################################################
 # UNIVERSIDAD NACIONAL DE INGENIERÍA 
 # INGENIERÍA EN ECONOMÍA Y NEGOCIOS 
-# ECONOMETRÍA AVANZADA 
+# Datos y código_ARMA-EGARCH
 # ARMA-GARCH Comparativo  
 #########################################################################
 # INTEGRANTES: 
